@@ -16,7 +16,7 @@ article,
 aside,
 details,
 figcaption,
-figure, 
+figure,
 footer,
 header,
 hgroup,
@@ -42,7 +42,7 @@ audio:not([controls]) {
 template {
   display: none;
 }
-a {
+a { 
   background-color: transparent;
 }
 a:active,
