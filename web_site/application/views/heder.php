@@ -11,6 +11,8 @@
 
 	<!--Loding CSSdate-->
 <link href="../css/bootstrap.min.css" rel="stylesheet">
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/bootstrap-theme.css" rel="stylesheet">
 
 
 <title>横浜医療情報専門学校プログラミングサークル</title>
