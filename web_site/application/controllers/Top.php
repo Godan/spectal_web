@@ -10,6 +10,6 @@ class Top
 {
 
 	public function show(){
-		$this->load->view('top');
+		$this->load->view('heder');
 	}
 }
