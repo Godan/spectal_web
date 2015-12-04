@@ -42,7 +42,7 @@ audio:not([controls]) {
 template {
   display: none;
 }
-a { 
+a {
   background-color: transparent;
 }
 a:active,
