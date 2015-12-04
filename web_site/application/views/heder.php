@@ -5,15 +5,15 @@
 <!--charset is utf-8-->
 <meta charset="utf-8">
 
-<!--ƒrƒ…[ƒ|[ƒgÝ’è-->
+<!--ãƒ“ãƒ¥ãƒ¼ãƒãƒ¼ãƒˆè¨­å®š-->
 <mate name="viewport" content="width=device-width,initial-scal=1"
 
 
 	<!--Loding CSSdate-->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="../css/bootstrap.min.css" rel="stylesheet">
 
 
-<title>‰¡•lˆã—Ãî•ñê–åŠwZƒvƒƒOƒ‰ƒ~ƒ“ƒOƒT[ƒNƒ‹</title>
+<title>æ¨ªæµœåŒ»ç™‚æƒ…å ±å°‚é–€å­¦æ ¡ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã‚µãƒ¼ã‚¯ãƒ«</title>
 <link rel="shortcut icon" href="favicon1.ico" type="image/vnd.microsoft.icon">
 
 </html>
@@ -29,30 +29,30 @@
         <span class="icon-bar"></span>
       </button>
 
-      <a class="navbar-brand" href="index.html" >‰¡•lˆã—Ãî•ñê–åŠwZƒvƒƒOƒ‰ƒ~ƒ“ƒOƒT[ƒNƒ‹</a>
+      <a class="navbar-brand" href="index.html" >æ¨ªæµœåŒ»ç™‚æƒ…å ±å°‚é–€å­¦æ ¡ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã‚µãƒ¼ã‚¯ãƒ«</a>
       <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
 	</div>
     <div class="navbar-collapse collapse navbar-inverse-collapse">
       <ul class="nav navbar-nav navbar-hover">
         <li><a href="aboutus.html">About us</a></li>
-        <li><a href="Activity.html">Šˆ“®ŽÀÑ</a></li>
-        <li class="disabled"><a href="blog.html">ƒuƒƒO</a></li>
-        <li><a href="content.html">ƒRƒ“ƒeƒ“ƒc</a></li>
-        <li><a href="Link.html">ƒŠƒ“ƒN</a></li>
+        <li><a href="Activity.html">æ´»å‹•å®Ÿç¸¾</a></li>
+        <li class="disabled"><a href="blog.html">ãƒ–ãƒ­ã‚°</a></li>
+        <li><a href="content.html">ã‚³ãƒ³ãƒ†ãƒ³ãƒ„</a></li>
+        <li><a href="Link.html">ãƒªãƒ³ã‚¯</a></li>
 
       </ul>
       <div class="navbar-collapse collapse navbar-responsive-collapse">
         <ul class="nav navbar-nav">
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >ÝŠw¶—pƒƒjƒ…[<b class="caret"></b></a>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >åœ¨å­¦ç”Ÿç”¨ãƒ¡ãƒ‹ãƒ¥ãƒ¼<b class="caret"></b></a>
             <ul class="dropdown-menu">
-              <li><a href="nyubu.html">“ü•”Šó–]</a></li>
-              <li><a href="SchoolActivity.html">Šw“àŠˆ“®‚ÉŠÖ‚µ‚Ä</a></li>
+              <li><a href="nyubu.html">å…¥éƒ¨å¸Œæœ›</a></li>
+              <li><a href="SchoolActivity.html">å­¦å†…æ´»å‹•ã«é–¢ã—ã¦</a></li>
               <li class="divider"></li>
-              <li>•”ˆõŒü‚¯ƒy[ƒW</li>
+              <li>éƒ¨å“¡å‘ã‘ãƒšãƒ¼ã‚¸</li>
               <li><a href="Login.html">LOGIN</a></li>
-              <ls>‚»‚Ì‘¼</ls>
-              <li><a href="document.html">ƒhƒLƒ…ƒƒ“ƒg</a></li>
+              <ls>ãã®ä»–</ls>
+              <li><a href="document.html">ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ</a></li>
               <li><a href="Help.html">HELP</a></li>
 
             </ul>
@@ -70,4 +70,4 @@
 
 </body>
 
-<!--‚±‚±‚Ü‚Å‚ªƒwƒbƒ_[‚±‚±‚©‚ç‚ª“à—e-->
+<!--ã“ã“ã¾ã§ãŒãƒ˜ãƒƒãƒ€ãƒ¼ã“ã“ã‹ã‚‰ãŒå†…å®¹-->
