@@ -2,11 +2,6 @@
 <!DOCTYPE html>
 <!--Language = Ja-->
 <html lang="ja">
-<head>
-
-  <!--bing検索用メタデータ-->
-  <meta name="msvalidate.01" content="E8B375CA9BBD944EAE7230EEC4023AD6" />
-</head>
 <!--charset is utf-8-->
 <meta charset="utf-8">
 
@@ -16,17 +11,6 @@
 
 	<!--Loding CSSdate-->
 <link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-
-<link rel="stylesheet" type="text/css" href="shadowbox.css">
-<script type="text/javascript" src="shadowbox.js"></script>
-<script type="text/javascript">
-	Shadowbox.init({
-    language: 'ja',
-    players: ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
-  });
-</script>
-
 
 
 <title>横浜医療情報専門学校プログラミングサークル</title>
@@ -47,7 +31,7 @@
 
       <a class="navbar-brand" href="index.html" >横浜医療情報専門学校プログラミングサークル</a>
       <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-    </div>
+	</div>
     <div class="navbar-collapse collapse navbar-inverse-collapse">
       <ul class="nav navbar-nav navbar-hover">
         <li><a href="aboutus.html">About us</a></li>

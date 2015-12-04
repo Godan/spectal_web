@@ -1,200 +1,75 @@
+<!--è¦‹å‡ºã—-->
+<div class="jumbotron" STYLE="background:URL(top.jpg)  #ffc;padding:20px" class="img-responsive" ã€€>
 
-<!DOCTYPE html>
-<!--Language = Ja-->
-<html lang="ja">
-<head>
+	<div class="container">
+		<h1>åŒ»ç™‚ã®ã“ã‚Œã‹ã‚‰ã‚’è¦‹ã¤ã‚ã‚ˆã†</h1>
 
-  <!--bingŒŸõ—pƒƒ^ƒf[ƒ^-->
-  <meta name="msvalidate.01" content="E8B375CA9BBD944EAE7230EEC4023AD6" />
-</head>
-<!--charset is utf-8-->
-<meta charset="utf-8">
+		<div class="hidden-xs" class="hidden-ms">
+			<!-- <img src="./a.jpg" class="img-responsive" alt="not found image!">-->
+			<p>ã‚ˆã†ã“ãï¼æ¨ªæµœåŒ»ç™‚æƒ…å ±å°‚é–€å­¦æ ¡ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã‚µãƒ¼ã‚¯ãƒ«ã¸ï¼ˆé€šç§°YMICPG)ã¸ï¼</br>
+				ã“ã®ã‚µãƒ¼ã‚¯ãƒ«ã§ã¯åŒ»ç™‚æƒ…å ±ã®"ä»Š"ã‚’è¦‹ã¤ã‚ã€æ–°ã—ã„æŠ€è¡“ã‚’å­¦ã³ã€å­¦å‹ãŸã¡ã¨çŸ¥è­˜ã‚’å…±æœ‰ã—</br>
+				æ–°ãŸãªåŒ»ç™‚ç¾å ´ã‚’ç¯‰ãä¸Šã’ã‚‹äººæã¨ã—ã¦å¸¸ã«å‘ä¸Šã‚’ç›®æŒ‡ã™ã‚µãƒ¼ã‚¯ãƒ«ã§ã™ã€‚</br>
+			</p>
+		</div>
 
-<!--ƒrƒ…[ƒ|[ƒgÝ’è-->
-<mate name="viewport" content="width=device-width,initial-scal=1"
-
-
-<!--Loding CSSdate-->
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-
-<link rel="stylesheet" type="text/css" href="shadowbox.css">
-<script type="text/javascript" src="shadowbox.js"></script>
-<script type="text/javascript">
-  Shadowbox.init({
-    language: 'ja',
-    players: ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
-  });
-</script>
-
-
-
-<title>‰¡•lˆã—Ãî•ñê–åŠwZƒvƒƒOƒ‰ƒ~ƒ“ƒOƒT[ƒNƒ‹</title>
-<link rel="shortcut icon" href="favicon1.ico" type="image/vnd.microsoft.icon">
-
-</head>
-<body>
-
-<div class="navbar navbar-default navbar-fixed-top"  >
-  <div class="container">
-
-    <div class="navbar-header" background-color="#2FA4E7">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-inverse-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-
-      <a class="navbar-brand" href="index.html" >‰¡•lˆã—Ãî•ñê–åŠwZƒvƒƒOƒ‰ƒ~ƒ“ƒOƒT[ƒNƒ‹</a>
-      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-    </div>
-    <div class="navbar-collapse collapse navbar-inverse-collapse">
-      <ul class="nav navbar-nav navbar-hover">
-        <li><a href="aboutus.html">About us</a></li>
-        <li><a href="Activity.html">Šˆ“®ŽÀÑ</a></li>
-        <li class="disabled"><a href="blog.html">ƒuƒƒO</a></li>
-        <li><a href="content.html">ƒRƒ“ƒeƒ“ƒc</a></li>
-        <li><a href="Link.html">ƒŠƒ“ƒN</a></li>
-
-      </ul>
-      <div class="navbar-collapse collapse navbar-responsive-collapse">
-        <ul class="nav navbar-nav">
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >ÝŠw¶—pƒƒjƒ…[<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="nyubu.html">“ü•”Šó–]</a></li>
-              <li><a href="SchoolActivity.html">Šw“àŠˆ“®‚ÉŠÖ‚µ‚Ä</a></li>
-              <li class="divider"></li>
-              <li>•”ˆõŒü‚¯ƒy[ƒW</li>
-              <li><a href="Login.html">LOGIN</a></li>
-              <ls>‚»‚Ì‘¼</ls>
-              <li><a href="document.html">ƒhƒLƒ…ƒƒ“ƒg</a></li>
-              <li><a href="Help.html">HELP</a></li>
-
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
+		<p><a class="btn btn-primary btn-lg" href="aboutus.html">ã‚‚ã£ã¨è©³ã—ã</a></p>
+	</div>
 </div>
 </div>
-
-</br>
-</br>
-</br>
-
-</body>
-
-<!--‚±‚±‚Ü‚Å‚ªƒwƒbƒ_[‚±‚±‚©‚ç‚ª“à—e-->
-
-<!--Œ©o‚µ-->
-<div class="jumbotron"  STYLE="background:URL(top.jpg)  #ffc;padding:20px" class="img-responsive" @ >
-
-  <div class="container">
-    <h1>ˆã—Ã‚Ì‚±‚ê‚©‚ç‚ðŒ©‚Â‚ß‚æ‚¤</h1>
-    <div class="hidden-xs" class="hidden-ms">
-      <!-- <img src="./a.jpg" class="img-responsive" alt="not found image!">-->
-      <p>‚æ‚¤‚±‚»I‰¡•lˆã—Ãî•ñê–åŠwZƒvƒƒOƒ‰ƒ~ƒ“ƒOƒT[ƒNƒ‹‚Öi’ÊÌYMICPG)‚ÖI</br>
-        ‚±‚ÌƒT[ƒNƒ‹‚Å‚Íˆã—Ãî•ñ‚Ì"¡"‚ðŒ©‚Â‚ßAV‚µ‚¢‹Zp‚ðŠw‚ÑAŠw—F‚½‚¿‚Æ’mŽ¯‚ð‹¤—L‚µ</br>
-        V‚½‚Èˆã—ÃŒ»ê‚ð’z‚«ã‚°‚élÞ‚Æ‚µ‚Äí‚ÉŒüã‚ð–ÚŽw‚·ƒT[ƒNƒ‹‚Å‚·B</br>
-      </p>
-    </div>
-
-    <p><a class="btn btn-primary btn-lg" href="aboutus.html">‚à‚Á‚ÆÚ‚µ‚­</a></p>
-  </div>
-</div>
-</div>
-<!--XV—š—ð-->
+<!--æ›´æ–°å±¥æ­´-->
 <section class="container">
-  <div class="row">
-    <div class="col-md-8" style="background-color:">
-      <article>
-        <div class="list-group">
-          <a href="#" class="list-group-item active">New Topics!</a>
+	<div class="row">
+		<div class="col-md-8" style="background-color:">
+			<article>
+				<div class="list-group">
+					<a href="#" class="list-group-item active">New Topics!</a>
 
 
-          <a href="index.html" class="list-group-item"><span class="label label-success">V‹K</span>9/6 ƒRƒ“ƒeƒ“ƒc‚ÉFEŽŽŒ±“ú‚Ü‚Å‰½“úƒJƒEƒ“ƒ^[‚ðŒöŠJ‚µ‚Ü‚µ‚½</a>
-          <a href="nyubu.html" class="list-group-item"><span class="label label-info">XV</span> 8/28 ‘Š’kƒtƒH[ƒ€³Ž®ŽÀ‘•‚µ‚Ü‚µ‚½B@</a>
-          <a href="nyubu.html" class="list-group-item"><span class="label label-info">XV</span> 8/25 “ü•”ƒtƒH[ƒ€³Ž®ŽÀ‘•‚µ‚Ü‚µ‚½B@</a>
-          <a href="#" class="list-group-item"><span class="label label-success">V‹K</span> 8/8 Šô‚Â‚©C³AŠw“àŠˆ“®‚ÉŠÖ‚µ‚Ä‚ð’Ç‰ÁB</a>
-          <a href="#" class="list-group-item"><span class="label label-success">V‹K</span> 8/7@About usAŠˆ“®ŽÀÑA“ü•”Šó–]ŽÒ‚Öi–¢ŽÀ‘•j‚ðƒy[ƒW’Ç‰Á‚µ‚Ü‚µ‚½B@</a>
-          <a href="Link.html" class="list-group-item"><span class="label label-info">XV</span> 8/6@ƒŠƒ“ƒN‚ÉConoHaAŠâèŠw‰€ƒOƒ‹[ƒv‚ð’Ç‰Á‚µ‚Ü‚µ‚½B@</a>
-
-
-
-
-
-
-        </div>
-      </article>
-    </div>
-
-    <div></div>
-
+					<a href="index.html" class="list-group-item"><span class="label label-success">æ–°è¦</span>9/6
+						ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã«FEè©¦é¨“æ—¥ã¾ã§ä½•æ—¥ã‚«ã‚¦ãƒ³ã‚¿ãƒ¼ã‚’å…¬é–‹ã—ã¾ã—ãŸ</a>
+					<a href="nyubu.html" class="list-group-item"><span class="label label-info">æ›´æ–°</span> 8/28
+						ç›¸è«‡ãƒ•ã‚©ãƒ¼ãƒ æ­£å¼å®Ÿè£…ã—ã¾ã—ãŸã€‚ã€€</a>
+					<a href="nyubu.html" class="list-group-item"><span class="label label-info">æ›´æ–°</span> 8/25
+						å…¥éƒ¨ãƒ•ã‚©ãƒ¼ãƒ æ­£å¼å®Ÿè£…ã—ã¾ã—ãŸã€‚ã€€</a>
+					<a href="#" class="list-group-item"><span class="label label-success">æ–°è¦</span> 8/8
+						å¹¾ã¤ã‹ä¿®æ­£ã€å­¦å†…æ´»å‹•ã«é–¢ã—ã¦ã‚’è¿½åŠ ã€‚</a>
+					<a href="#" class="list-group-item"><span class="label label-success">æ–°è¦</span> 8/7ã€€About
+						usã€æ´»å‹•å®Ÿç¸¾ã€å…¥éƒ¨å¸Œæœ›è€…ã¸ï¼ˆæœªå®Ÿè£…ï¼‰ã‚’ãƒšãƒ¼ã‚¸è¿½åŠ ã—ã¾ã—ãŸã€‚ã€€</a>
+					<a href="Link.html" class="list-group-item"><span class="label label-info">æ›´æ–°</span>
+						8/6ã€€ãƒªãƒ³ã‚¯ã«ConoHaã€å²©å´Žå­¦åœ’ã‚°ãƒ«ãƒ¼ãƒ—ã‚’è¿½åŠ ã—ã¾ã—ãŸã€‚ã€€</a>
+			</article>
+		</div>
+	</div>
+	</section>
 
 
 
-    <!--‚Æ‚è‚ ‚¦‚¸ƒpƒlƒ‹‚ð’u‚¢‚Ä‚Ý‚é--><div  class="hidden-xs" class="hidden-ms" class="hidden-md">
-      <article class="col-md-3" class="hidden-xs" class="hidden-ms">
-        <div class="panel panel-primary"  class="hidden-xs" class="hidden-ms">
-          <div class="panel-heading">
-            Photograph
-          </div>
-          <div calss="panel-body">
-            <p>
+	<!--ã“ã“ã‹ã‚‰ãƒ•ãƒƒãƒ€ãƒ¼-->
+	<div class="page-header" class="container"
+	"col-md-12" >
+	<div class="text-center">
+		<h5>æ¨ªæµœåŒ»ç™‚æƒ…å ±å°‚é–€å­¦æ ¡ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã‚µãƒ¼ã‚¯ãƒ«
+			<small>
+				<address><p>ã€’222ï¼0033ã€€ç¥žå¥ˆå·çœŒæ¨ªæµœå¸‚æ¸¯åŒ—åŒºæ–°æ¨ªæµœ2-4-10</address>
+				<a href="http://www.conoha.jp/" target="_blank">Powered by ConoHa</a></p>
+			</small>
+		</h5>
 
-            <div id="carousel_01" class="carousel slide" data-ride="carousel">
-              <ol class="carousel-indicators">
-                <li data-target="#carousel_01" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel_01" data-slide-to="1"></li>
-              </ol>
-              <div class="carousel-inner">
-                <div class="item active">
-                  <img src="./image/sample_1.jpg" alt="ƒTƒ“ƒvƒ‹‰æ‘œ‚P" >
-                </div>
-                <div class="item">
-                  <img src="./image/sample_2.jpg" alt="ƒTƒ“ƒvƒ‹‰æ‘œ‚Q" >
-                </div>
-              </div>
-              <a class="left carousel-control" href="#carousel_01" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left"></span>
-              </a>
-              <a class="right carousel-control" href="#carousel_01" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right"></span>
-              </a>
-            </div>
+		<ul class="breadcrumb" ã€€>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="aboutus.html">About us</a></li>
+			<li><a href="Activity.html">æ´»å‹•å®Ÿç¸¾</a></li>
+			<li><a href="blog.html">ãƒ–ãƒ­ã‚°</a></li>
+			<li><a href="content.html">ã‚³ãƒ³ãƒ†ãƒ³ãƒ„</a></li>
+			<li><a href="Link.html">ãƒªãƒ³ã‚¯</a></li>
+		</ul>
+		<h6>
+			COPYRIGHT Â© IWASAKI GAKUEN Programming Group. ALL RIGHTS RESERVED.</h6>
+	</div>
+	</div>
 
-            </p>
-          </div></div>
-
-
-      </article></div>
-</section>
-
-<!--‚±‚±‚©‚çƒtƒbƒ_[-->
-<div class="page-header" class="container" "col-md-12" >
-<div class="text-center">
-  <h5 >‰¡•lˆã—Ãî•ñê–åŠwZƒvƒƒOƒ‰ƒ~ƒ“ƒOƒT[ƒNƒ‹<small><address><p>§222|0033@_“ÞìŒ§‰¡•lŽs`–k‹æV‰¡•l2-4-10</address>
-      <a href="http://www.conoha.jp/" target="_blank">Powered by ConoHa</a></p>
-    </small></h5>
-
-  <ul class="breadcrumb"@>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="aboutus.html">About us</a></li>
-    <li ><a href="Activity.html">Šˆ“®ŽÀÑ</a></li>
-    <li ><a href="blog.html">ƒuƒƒO</a></li>
-    <li ><a href="content.html">ƒRƒ“ƒeƒ“ƒc</a></li>
-    <li ><a href="Link.html">ƒŠƒ“ƒN</a></li>
-  </ul>
-  <h6>
-    COPYRIGHT ? IWASAKI GAKUEN Programming Group. ALL RIGHTS RESERVED.</h6>
-</div></div>
-
-<!--Loding jQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<!--Loding useJavaScript-->
-<script src="js/bootstrap.min.js"></script>
-</body>
-</html>
-@
+	<!--Loding jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<!--Loding useJavaScript-->
+	<script src="js/bootstrap.min.js"></script>
+	</body>
