@@ -22,6 +22,30 @@
                 8/6　リンクにConoHa、岩崎学園グループを追加しました。　</a>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-4" style="background-color:#000000">
+            <img src="<?=base_url();?>images/top-01.JPG">
+        </div>
+        <div class="col-md-4" style="background-color:#000000">
+            <img src="<?=base_url();?>images/top-01.JPG">
+        </div>
+        <div class="col-md-4" style="background-color:#000000">
+            <img src="<?=base_url();?>images/top-01.JPG">
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-md-8" style="background-color:#000000">
+            <img src="<?=base_url();?>images/top-01.JPG">
+        </div>
+        <div class="col-md-8" style="background-color:#000000">
+            <img src="<?=base_url();?>images/top-01.JPG">
+        </div>
+        <div class="col-md-8" style="background-color:#000000">
+            <img src="<?=base_url();?>images/top-01.JPG">
+        </div>
+    </div>
 </section>
 
 
