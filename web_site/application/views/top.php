@@ -2,7 +2,7 @@
 <section class="container">
     <div class="row">
         <div class="col-md-8" style="background-color:#000000">
-            <img src="<?=base_url();?>images/top-01.JPG">
+            <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="list-group col-md-4">
             <a href="#" class="list-group-item active">New Topics!</a>
@@ -24,26 +24,26 @@
     </div>
     <div class="row">
         <div class="col-md-4" style="background-color:#000000">
-            <img src="<?=base_url();?>images/top-01.JPG">
+            <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="col-md-4" style="background-color:#000000">
-            <img src="<?=base_url();?>images/top-01.JPG">
+            <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="col-md-4" style="background-color:#000000">
-            <img src="<?=base_url();?>images/top-01.JPG">
+            <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
 
     </div>
 
     <div class="row">
         <div class="col-md-8" style="background-color:#000000">
-            <img src="<?=base_url();?>images/top-01.JPG">
+            <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="col-md-8" style="background-color:#000000">
-            <img src="<?=base_url();?>images/top-01.JPG">
+            <img src="<?=base_url();?>images/top-01.JPG"class="img-responsive">
         </div>
         <div class="col-md-8" style="background-color:#000000">
-            <img src="<?=base_url();?>images/top-01.JPG">
+            <img src="<?=base_url();?>images/top-01.JPG"class="img-responsive">
         </div>
     </div>
 </section>
