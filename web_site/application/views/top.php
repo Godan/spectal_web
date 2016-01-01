@@ -1,25 +1,21 @@
 <!--更新履歴-->
 <section class="container">
     <div class="row">
-        <div class="col-md-8>
+        <div class="col-md-8">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="list-group col-md-4">
             <a href="#" class="list-group-item active">New Topics!</a>
 
 
-            <a href="index.html" class="list-group-item"><span class="label label-success">新規</span>9/6
-                コンテンツにFE試験日まで何日カウンターを公開しました</a>
-            <a href="nyubu.html" class="list-group-item"><span class="label label-info">更新</span> 8/28
-                相談フォーム正式実装しました。　</a>
-            <a href="nyubu.html" class="list-group-item"><span class="label label-info">更新</span> 8/25
-                入部フォーム正式実装しました。　</a>
-            <a href="#" class="list-group-item"><span class="label label-success">新規</span> 8/8
-                幾つか修正、学内活動に関してを追加。</a>
-            <a href="#" class="list-group-item"><span class="label label-success">新規</span> 8/7　About
-                us、活動実績、入部希望者へ（未実装）をページ追加しました。　</a>
-            <a href="Link.html" class="list-group-item"><span class="label label-info">更新</span>
-                8/6　リンクにConoHa、岩崎学園グループを追加しました。　</a>
+            <a href="index.html" class="list-group-item"><span class="label label-success">新規</span>現在開発中です</a>
+            <a></a>
+            <a></a>
+            <a></a>
+            <a></a>
+            <a></a>
+            <a></a>
+            <a></a>
         </div>
     <div class="row">
         <div class="col-md-4">
