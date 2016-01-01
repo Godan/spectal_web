@@ -1,23 +1,11 @@
-<!--見出し-->
-<div class="jumbotron" STYLE="background:URL(top.jpg)  #ffc;padding:20px" class="img-responsive" 　>
 
-	<div class="container">
-		<div class="row">
-			<div class="col-md-7">
-
-			</div>
-		</div>
-
-	</div>
-</div>
-</div>
 <!--更新履歴-->
 <section class="container">
 	<div class="row">
 		<div class="col-md-8" style="background-color:#000000" >
-			<img src="<?=base_url();?>img/top-01.jpg">
-			<article>
-				<div class="list-group">
+			<img src="<?=base_url();?>img/top-01.JPG">
+			</div>
+				<div class="list-group col-md4">
 					<a href="#" class="list-group-item active">New Topics!</a>
 
 
@@ -33,16 +21,14 @@
 						us、活動実績、入部希望者へ（未実装）をページ追加しました。　</a>
 					<a href="Link.html" class="list-group-item"><span class="label label-info">更新</span>
 						8/6　リンクにConoHa、岩崎学園グループを追加しました。　</a>
-			</article>
 		</div>
-	</div>
+		</div>
 	</section>
 
 
 
 	<!--ここからフッダー-->
-	<div class="page-header" class="container"
-	"col-md-12" >
+	<div class="page-header" class="container col-md-12" >
 	<div class="text-center">
 		<h5>横浜医療情報専門学校プログラミングサークル
 			<small>
