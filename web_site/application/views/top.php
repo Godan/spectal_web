@@ -1,7 +1,7 @@
 <!--更新履歴-->
 <section class="container">
     <div class="row">
-        <div class="col-md-8" style="background-color:#000000">
+        <div class="col-md-8>
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="list-group col-md-4">
@@ -21,28 +21,27 @@
             <a href="Link.html" class="list-group-item"><span class="label label-info">更新</span>
                 8/6　リンクにConoHa、岩崎学園グループを追加しました。　</a>
         </div>
-    </div>
     <div class="row">
-        <div class="col-md-4" style="background-color:#000000">
+        <div class="col-md-4">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
-        <div class="col-md-4" style="background-color:#000000">
+        <div class="col-md-4">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
-        <div class="col-md-4" style="background-color:#000000">
+        <div class="col-md-4">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
 
     </div>
 
     <div class="row">
-        <div class="col-md-8" style="background-color:#000000">
+        <div class="col-md-4">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
-        <div class="col-md-8" style="background-color:#000000">
+        <div class="col-md-4" >
             <img src="<?=base_url();?>images/top-01.JPG"class="img-responsive">
         </div>
-        <div class="col-md-8" style="background-color:#000000">
+        <div class="col-md-4">
             <img src="<?=base_url();?>images/top-01.JPG"class="img-responsive">
         </div>
     </div>
