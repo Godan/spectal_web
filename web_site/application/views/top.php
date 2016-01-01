@@ -9,13 +9,15 @@
 
 
             <a href="index.html" class="list-group-item"><span class="label label-success">新規</span>現在開発中です</a>
-            <a></a>
-            <a></a>
-            <a></a>
-            <a></a>
-            <a></a>
-            <a></a>
-            <a></a>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+        </div>
         </div>
     <div class="row">
         <div class="col-md-4">
