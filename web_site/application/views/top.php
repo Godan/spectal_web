@@ -19,11 +19,12 @@
            <br>
         </div>
         </div>
+    <br>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-5">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="col-md-4">
@@ -31,12 +32,12 @@
         </div>
 
     </div>
-
+<br>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-2">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
-        <div class="col-md-4" >
+        <div class="col-md-6" >
             <img src="<?=base_url();?>images/top-01.JPG"class="img-responsive">
         </div>
         <div class="col-md-4">
