@@ -15,7 +15,7 @@
 <link href="<?=base_url();?>css/bootstrap-theme.css" rel="stylesheet">
 
 
-<title>横浜医療情報専門学校プログラミングサークル</title>
+<title>Spectrum</title>
 <link rel="shortcut icon" href="favicon1.ico" type="image/vnd.microsoft.icon">
 
 </html>
@@ -31,37 +31,18 @@
         <span class="icon-bar"></span>
       </button>
 
-      <a class="navbar-brand" href="index.html" >横浜医療情報専門学校プログラミングサークル</a>
+      <a class="navbar-brand" href="index.html" >-Creators Studio- Spectrum</a>
       <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
 	</div>
     <div class="navbar-collapse collapse navbar-inverse-collapse">
       <ul class="nav navbar-nav navbar-hover">
+        <li><a href="index">TOP</a></li>
         <li><a href="aboutus.html">About us</a></li>
-        <li><a href="Activity.html">活動実績</a></li>
-        <li class="disabled"><a href="blog.html">ブログ</a></li>
-        <li><a href="content.html">コンテンツ</a></li>
-        <li><a href="Link.html">リンク</a></li>
+        <li class="disabled"><a href="blog.html">Member</a></li>
+        <li><a href="content.html">Gallery</a></li>
+        <li><a href="Link.html"></a></li>
 
       </ul>
-      <div class="navbar-collapse collapse navbar-responsive-collapse">
-        <ul class="nav navbar-nav">
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >在学生用メニュー<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="nyubu.html">入部希望</a></li>
-              <li><a href="SchoolActivity.html">学内活動に関して</a></li>
-              <li class="divider"></li>
-              <li>部員向けページ</li>
-              <li><a href="Login.html">LOGIN</a></li>
-              <ls>その他</ls>
-              <li><a href="document.html">ドキュメント</a></li>
-              <li><a href="Help.html">HELP</a></li>
-
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </div>
   </div>
 </div>
 </div>
