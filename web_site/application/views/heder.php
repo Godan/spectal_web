@@ -38,7 +38,7 @@
       <ul class="nav navbar-nav navbar-hover">
         <li><a href="index">TOP</a></li>
         <li><a href="aboutus.html">About us</a></li>
-        <li class="disabled"><a href="blog.html">Member</a></li>
+        <li ><a href="blog.html">Member</a></li>
         <li><a href="content.html">Gallery</a></li>
         <li><a href="Link.html"></a></li>
 
