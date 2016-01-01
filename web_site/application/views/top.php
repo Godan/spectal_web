@@ -2,24 +2,20 @@
 <div class="jumbotron" STYLE="background:URL(top.jpg)  #ffc;padding:20px" class="img-responsive" 　>
 
 	<div class="container">
-		<h1>医療のこれからを見つめよう</h1>
+		<div class="row">
+			<div class="col-md-7">
 
-		<div class="hidden-xs" class="hidden-ms">
-			<!-- <img src="./a.jpg" class="img-responsive" alt="not found image!">-->
-			<p>ようこそ！横浜医療情報専門学校プログラミングサークルへ（通称YMICPG)へ！</br>
-				このサークルでは医療情報の"今"を見つめ、新しい技術を学び、学友たちと知識を共有し</br>
-				新たな医療現場を築き上げる人材として常に向上を目指すサークルです。</br>
-			</p>
+			</div>
 		</div>
 
-		<p><a class="btn btn-primary btn-lg" href="aboutus.html">もっと詳しく</a></p>
 	</div>
 </div>
 </div>
 <!--更新履歴-->
 <section class="container">
 	<div class="row">
-		<div class="col-md-8" style="background-color:">
+		<div class="col-md-8" style="background-color:#000000" >
+			<img src="<?=base_url();?>img/top-01.jpg">
 			<article>
 				<div class="list-group">
 					<a href="#" class="list-group-item active">New Topics!</a>
