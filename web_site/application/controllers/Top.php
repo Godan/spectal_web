@@ -23,4 +23,9 @@ public function show()
 $this->load->view('heder');
 $this->load->view('top');
 }
+
+public function about_us(){
+$this->load->view('heder');
+$this->load->view('about_us');
+}
 }
