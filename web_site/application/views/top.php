@@ -21,10 +21,10 @@
         </div>
     <br>
     <div class="row">
-        <div class="col-md-5">
+        <div class="col-md-5 top1">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 top1">
             <img src="<?=base_url();?>images/top-01.JPG" class="img-responsive">
         </div>
         <div class="col-md-4">

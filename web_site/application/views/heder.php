@@ -6,13 +6,14 @@
 <meta charset="utf-8">
 
 <!--ビューポート設定-->
-<mate name="viewport" content="width=device-width,initial-scal=1"
+<mate name="viewport" content="width=device-width,initial-scal=1"></mate>
 
 
 	<!--Loding CSSdate-->
 <link href="<?=base_url();?>css/bootstrap.min.css" rel="stylesheet">
 <link href="<?=base_url();?>css/bootstrap.css" rel="stylesheet">
 <link href="<?=base_url();?>css/bootstrap-theme.css" rel="stylesheet">
+<link href="<?=base_url();?>css/spectal.css" rel="stylesheet">
 
 
 <title>Spectrum</title>
