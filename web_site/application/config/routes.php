@@ -53,4 +53,4 @@ $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 $route['index'] = 'top/show';
-$route['about'] = 'top/about_as';
+$route['about_us'] = 'top/about_us';
