@@ -1,4 +1,3 @@
-<header class="bg-danger text-center lead algo13-moderate-height">ヘッダー</header>
 <div class="container">
     <div class="row">
         <!-- 本文を右に表示 -->
@@ -9,37 +8,41 @@
 
             <h3>さぁ昔話をはじめよう</h3>
 
-            <p>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-            </p>
+            <div class=".algo13-moderate-height">
+                <p>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                </p>
+            </div>
+            <div class=".algo13-moderate-height">
+                <h2 id="section-2">Working Log</h2>
 
-            <h2 id="section-2">Working Log</h2>
+                <h3>まぁまだそんなものだよ</h3>
 
-            <h3>まぁまだそんなものだよ</h3>
+                <p>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                </p>
+            </div>
+            <div class=".algo13-moderate-height">
+                <h2 id="section-3">活動風景</h2>
 
-            <p>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-            </p>
+                <h3>来年から本気だす</h3>
 
-            <h2 id="section-3">活動風景</h2>
+                <p>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
 
-            <h3>来年から本気だす</h3>
-
-            <p>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
-
-            </p>
+                </p>
+            </div>
         </div>
         <!-- サイドバーを左に表示 -->
         <div class="col-xs-3 col-xs-pull-9" role="complementary">
@@ -65,7 +68,7 @@
         </div>
     </div>
 </div>
-<footer class="bg-danger text-center lead algo13-moderate-height">フッター</footer>
+
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script>
