@@ -1,3 +1,8 @@
+<br>
+<br>
+<br>
+<br>
+<br>
 <div class="container">
     <div class="row">
         <!-- 本文を右に表示 -->
@@ -8,7 +13,7 @@
 
             <h3>さぁ昔話をはじめよう</h3>
 
-            <div class=".algo13-moderate-height">
+            <div class="">
                 <p>
                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
